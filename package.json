@@ -7,7 +7,7 @@
   "homepage": "https://checkoutreceipt.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/receipt-tax-codes"
+    "url": "https://github.com/CheckoutReceipt/receipt-tax-codes"
   },
   "keywords": [
     "receipt",
@@ -26,6 +26,6 @@
   "author": "CheckoutReceipt.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/receipt-tax-codes/issues"
+    "url": "https://github.com/CheckoutReceipt/receipt-tax-codes/issues"
   }
 }
