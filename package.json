@@ -1,0 +1,31 @@
+{
+  "name": "receipt-tax-codes",
+  "version": "1.0.0",
+  "description": "Tax code lookup data for 15+ US retailers. Find what N, X, O, T, and other tax codes mean on receipts from Walmart, Target, Costco, CVS, and more.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "homepage": "https://checkoutreceipt.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/receipt-tax-codes"
+  },
+  "keywords": [
+    "receipt",
+    "tax-codes",
+    "sales-tax",
+    "walmart",
+    "target",
+    "costco",
+    "cvs",
+    "kroger",
+    "receipt-generator",
+    "tax-lookup",
+    "retail",
+    "us-retail"
+  ],
+  "author": "CheckoutReceipt.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/receipt-tax-codes/issues"
+  }
+}
